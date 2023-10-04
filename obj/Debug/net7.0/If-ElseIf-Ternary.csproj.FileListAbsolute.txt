@@ -1,0 +1,14 @@
+C:\Users\ibrah\Desktop\ibrahim\pratikler\If-ElseIf-Ternary\bin\Debug\net7.0\If-ElseIf-Ternary.exe
+C:\Users\ibrah\Desktop\ibrahim\pratikler\If-ElseIf-Ternary\bin\Debug\net7.0\If-ElseIf-Ternary.deps.json
+C:\Users\ibrah\Desktop\ibrahim\pratikler\If-ElseIf-Ternary\bin\Debug\net7.0\If-ElseIf-Ternary.runtimeconfig.json
+C:\Users\ibrah\Desktop\ibrahim\pratikler\If-ElseIf-Ternary\bin\Debug\net7.0\If-ElseIf-Ternary.dll
+C:\Users\ibrah\Desktop\ibrahim\pratikler\If-ElseIf-Ternary\bin\Debug\net7.0\If-ElseIf-Ternary.pdb
+C:\Users\ibrah\Desktop\ibrahim\pratikler\If-ElseIf-Ternary\obj\Debug\net7.0\If-ElseIf-Ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\ibrahim\pratikler\If-ElseIf-Ternary\obj\Debug\net7.0\If-ElseIf-Ternary.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\ibrahim\pratikler\If-ElseIf-Ternary\obj\Debug\net7.0\If-ElseIf-Ternary.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\ibrahim\pratikler\If-ElseIf-Ternary\obj\Debug\net7.0\If-ElseIf-Ternary.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\ibrahim\pratikler\If-ElseIf-Ternary\obj\Debug\net7.0\If-ElseIf-Ternary.dll
+C:\Users\ibrah\Desktop\ibrahim\pratikler\If-ElseIf-Ternary\obj\Debug\net7.0\refint\If-ElseIf-Ternary.dll
+C:\Users\ibrah\Desktop\ibrahim\pratikler\If-ElseIf-Ternary\obj\Debug\net7.0\If-ElseIf-Ternary.pdb
+C:\Users\ibrah\Desktop\ibrahim\pratikler\If-ElseIf-Ternary\obj\Debug\net7.0\If-ElseIf-Ternary.genruntimeconfig.cache
+C:\Users\ibrah\Desktop\ibrahim\pratikler\If-ElseIf-Ternary\obj\Debug\net7.0\ref\If-ElseIf-Ternary.dll
